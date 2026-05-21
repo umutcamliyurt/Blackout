@@ -1,0 +1,5 @@
+flask
+waitress
+scapy
+colorama
+cryptography
